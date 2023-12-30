@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arsh Gangani</h1>
 
-- 🔭 I’m currently working on JS project<br>
+- 🔭 I’m currently working on Django project<br>
 
-- 🌱 I’m currently exploring **JS**<br>
+- 🌱 I’m currently exploring **Django**<br>
 
 - 📫 How to reach me **arshgangani18@gmail.com**
 
